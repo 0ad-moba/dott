@@ -40,7 +40,7 @@
 	<ScriptSettings><![CDATA[
 {
   "AISeed": 0,
-  "CircularMap": true,
+  "CircularMap": false,
   "Description": "MOBA style game",
   "Keywords": [],
   "LockTeams": false,
