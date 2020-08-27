@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="446.874" y="790.261" z="-385.193"/>
+		<Position x="879.456" y="930.995" z="-608.427"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -105,6 +105,160 @@
 			<Position x="1933.52637" z="1917.53077"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54827"/>
+		</Entity>
+		<Entity uid="13">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="100.69869" z="133.62678"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40362"/>
+		</Entity>
+		<Entity uid="14">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="183.42026" z="65.30163"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28250"/>
+		</Entity>
+		<Entity uid="15">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="84.2255" z="261.60212"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29587"/>
+		</Entity>
+		<Entity uid="16">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="261.51041" z="180.09162"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45145"/>
+		</Entity>
+		<Entity uid="17">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="322.62238" z="53.90857"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57259"/>
+		</Entity>
+		<Entity uid="18">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1004.84803" z="260.9272"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4697"/>
+		</Entity>
+		<Entity uid="19">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="1604.79114" z="106.90528"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14556"/>
+		</Entity>
+		<Entity uid="20">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="565.99354" z="636.46766"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10398"/>
+		</Entity>
+		<Entity uid="21">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="931.79395" z="852.08326"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57566"/>
+		</Entity>
+		<Entity uid="22">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="136.58042" z="917.42945"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19200"/>
+		</Entity>
+		<Entity uid="23">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>1</Player>
+			<Position x="272.22934" z="1516.58716"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12955"/>
+		</Entity>
+		<Entity uid="24">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="461.72513" z="1693.61963"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54176"/>
+		</Entity>
+		<Entity uid="25">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1001.09565" z="1870.03504"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16233"/>
+		</Entity>
+		<Entity uid="26">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1466.4712" z="1757.86304"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15887"/>
+		</Entity>
+		<Entity uid="29">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1594.70801" z="1620.47327"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37567"/>
+		</Entity>
+		<Entity uid="30">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1400.08106" z="1295.93335"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3871"/>
+		</Entity>
+		<Entity uid="31">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1070.2771" z="1205.92603"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18252"/>
+		</Entity>
+		<Entity uid="32">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1951.45264" z="1517.72181"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20065"/>
+		</Entity>
+		<Entity uid="33">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1755.83863" z="878.0652"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42700"/>
+		</Entity>
+		<Entity uid="34">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1898.67469" z="376.98957"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50895"/>
+		</Entity>
+		<Entity uid="35">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1889.41163" z="1814.26294"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21986"/>
+		</Entity>
+		<Entity uid="36">
+			<Template>structures/rome_defense_tower</Template>
+			<Player>2</Player>
+			<Position x="1828.70337" z="1897.89307"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15575"/>
 		</Entity>
 	</Entities>
 	<Paths/>
