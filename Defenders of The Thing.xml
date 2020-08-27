@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1504.87" y="1055.33" z="431.913"/>
+		<Position x="721.197" y="617.017" z="500.294"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -273,6 +273,13 @@
 			<Position x="2008.74646" z="1918.34424"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44485"/>
+		</Entity>
+		<Entity uid="41">
+			<Template>units/sele_support_trader</Template>
+			<Player>0</Player>
+			<Position x="522.08735" z="1182.9076"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14535"/>
 		</Entity>
 	</Entities>
 	<Paths/>
