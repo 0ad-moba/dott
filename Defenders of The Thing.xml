@@ -11,13 +11,13 @@
 		<Fog>
 			<FogFactor>0</FogFactor>
 			<FogThickness>0.5</FogThickness>
-			<FogColor r="0.8" g="0.8" b="0.898039"/>
+			<FogColor r="0.8" g="0.8" b="0.894118"/>
 		</Fog>
 		<Water>
 			<WaterBody>
 				<Type>ocean</Type>
-				<Color r="0.298039" g="0.34902" b="0.698039"/>
-				<Tint r="0.278431" g="0.298039" b="0.588235"/>
+				<Color r="0.294118" g="0.34902" b="0.694118"/>
+				<Tint r="0.27451" g="0.294118" b="0.584314"/>
 				<Height>5</Height>
 				<Waviness>4</Waviness>
 				<Murkiness>0.45</Murkiness>
@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="480.119" y="574.974" z="-363.773"/>
+		<Position x="1060.73" y="1209.94" z="-852.583"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -46,6 +46,7 @@
   "LockTeams": false,
   "Name": "Defender of the Thing",
   "PlayerData": [
+    null,
     {
       "Civ": "athen"
     },
