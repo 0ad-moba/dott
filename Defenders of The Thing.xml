@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1150.08" y="1076.85" z="-707.545"/>
+		<Position x="446.874" y="790.261" z="-385.193"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -91,6 +91,21 @@
   ]
 }
 ]]></ScriptSettings>
-	<Entities/>
+	<Entities>
+		<Entity uid="11">
+			<Template>structures/gaul_wonder</Template>
+			<Player>1</Player>
+			<Position x="99.0102" z="63.79242"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13039"/>
+		</Entity>
+		<Entity uid="12">
+			<Template>structures/brit_wonder</Template>
+			<Player>2</Player>
+			<Position x="1933.52637" z="1917.53077"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54827"/>
+		</Entity>
+	</Entities>
 	<Paths/>
 </Scenario>
