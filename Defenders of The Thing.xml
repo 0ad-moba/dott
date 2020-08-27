@@ -49,30 +49,38 @@
     {
       "AI": "petra",
       "Civ": "athen",
-      "Name": "Team 1 Bot"
+      "Name": "Team 1 Bot",
+      "Team": 0
     },
     {
       "AI": "petra",
       "Civ": "cart",
-      "Name": "Team 2 Bot"
+      "Name": "Team 2 Bot",
+      "Team": 1
     },
     {
-      "Civ": "gaul"
+      "Civ": "gaul",
+      "Team": 0
     },
     {
-      "Civ": "iber"
+      "Civ": "iber",
+      "Team": 0
     },
     {
-      "Civ": "mace"
+      "Civ": "mace",
+      "Team": 0
     },
     {
-      "Civ": "pers"
+      "Civ": "pers",
+      "Team": 1
     },
     {
-      "Civ": "rome"
+      "Civ": "rome",
+      "Team": 1
     },
     {
-      "Civ": "spart"
+      "Civ": "spart",
+      "Team": 1
     }
   ],
   "Preview": "",
