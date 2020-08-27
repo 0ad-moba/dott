@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="879.456" y="930.995" z="-608.427"/>
+		<Position x="1504.87" y="1055.33" z="431.913"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -259,6 +259,20 @@
 			<Position x="1828.70337" z="1897.89307"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15575"/>
+		</Entity>
+		<Entity uid="37">
+			<Template>units/iber_support_trader</Template>
+			<Player>1</Player>
+			<Position x="30.24685" z="56.91153"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57180"/>
+		</Entity>
+		<Entity uid="39">
+			<Template>units/iber_support_trader</Template>
+			<Player>2</Player>
+			<Position x="2008.74646" z="1918.34424"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44485"/>
 		</Entity>
 	</Entities>
 	<Paths/>
