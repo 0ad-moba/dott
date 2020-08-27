@@ -46,12 +46,15 @@
   "LockTeams": false,
   "Name": "Defender of the Thing",
   "PlayerData": [
-    null,
     {
-      "Civ": "athen"
+      "AI": "petra",
+      "Civ": "athen",
+      "Name": "Team 1 Bot"
     },
     {
-      "Civ": "cart"
+      "AI": "petra",
+      "Civ": "cart",
+      "Name": "Team 2 Bot"
     },
     {
       "Civ": "gaul"
@@ -69,8 +72,7 @@
       "Civ": "rome"
     },
     {
-      "Civ": "spart",
-      "Name": "Team 2 Bot"
+      "Civ": "spart"
     }
   ],
   "Preview": "",
