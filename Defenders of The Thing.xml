@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="721.197" y="617.017" z="500.294"/>
+		<Position x="591.424" y="1334.97" z="-709.681"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -280,6 +280,237 @@
 			<Position x="522.08735" z="1182.9076"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14535"/>
+		</Entity>
+		<Entity uid="160">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="460.18213" z="721.02192"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34201"/>
+		</Entity>
+		<Entity uid="161">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="438.29871" z="979.82148"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10204"/>
+		</Entity>
+		<Entity uid="162">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="635.7129" z="1005.44831"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5629"/>
+		</Entity>
+		<Entity uid="163">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="904.81373" z="1556.93946"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16488"/>
+		</Entity>
+		<Entity uid="164">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1245.55665" z="1556.93921"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32819"/>
+		</Entity>
+		<Entity uid="165">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1007.8058" z="1375.45411"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1350"/>
+		</Entity>
+		<Entity uid="166">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1594.74598" z="1174.6277"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47277"/>
+		</Entity>
+		<Entity uid="167">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1371.2251" z="1052.2638"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57694"/>
+		</Entity>
+		<Entity uid="168">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1567.1875" z="871.81983"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17446"/>
+		</Entity>
+		<Entity uid="169">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="820.2046" z="412.44123"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54870"/>
+		</Entity>
+		<Entity uid="170">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1137.10401" z="429.84559"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11100"/>
+		</Entity>
+		<Entity uid="171">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="975.75867" z="636.16675"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="24243"/>
+		</Entity>
+		<Entity uid="172">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="491.60874" z="94.84491"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16492"/>
+		</Entity>
+		<Entity uid="173">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="710.39954" z="43.31861"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28374"/>
+		</Entity>
+		<Entity uid="174">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="950.3368" z="96.64203"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47170"/>
+		</Entity>
+		<Entity uid="175">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1203.95203" z="40.04017"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18618"/>
+		</Entity>
+		<Entity uid="176">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1460.03248" z="96.64197"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2445"/>
+		</Entity>
+		<Entity uid="177">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1752.94434" z="49.18555"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63566"/>
+		</Entity>
+		<Entity uid="178">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1950.99585" z="102.19013"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="17539"/>
+		</Entity>
+		<Entity uid="179">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1992.67566" z="400.08533"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45364"/>
+		</Entity>
+		<Entity uid="180">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1937.40674" z="751.28956"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32489"/>
+		</Entity>
+		<Entity uid="181">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="2021.13331" z="984.77149"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40822"/>
+		</Entity>
+		<Entity uid="182">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1939.47779" z="1234.88074"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64226"/>
+		</Entity>
+		<Entity uid="183">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="136.41935" z="517.54377"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23097"/>
+		</Entity>
+		<Entity uid="184">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="51.7411" z="724.08808"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26043"/>
+		</Entity>
+		<Entity uid="185">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="108.0941" z="1021.34296"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37236"/>
+		</Entity>
+		<Entity uid="186">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="43.6756" z="1416.85743"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31379"/>
+		</Entity>
+		<Entity uid="187">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="120.54184" z="1704.8318"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="25636"/>
+		</Entity>
+		<Entity uid="188">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="58.50013" z="1926.94312"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63662"/>
+		</Entity>
+		<Entity uid="189">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="347.41639" z="1968.73194"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26329"/>
+		</Entity>
+		<Entity uid="190">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="663.75983" z="1947.71167"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11363"/>
+		</Entity>
+		<Entity uid="191">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="963.85657" z="1968.73218"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15647"/>
+		</Entity>
+		<Entity uid="192">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="1348.51429" z="1926.94288"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42927"/>
 		</Entity>
 	</Entities>
 	<Paths/>
