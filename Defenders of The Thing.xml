@@ -3,9 +3,9 @@
 <Scenario version="6">
 	<Environment>
 		<SkySet>default</SkySet>
-		<SunColor r="0.74902" g="0.74902" b="0.74902"/>
+		<SunColor r="0.899701" g="0.899701" b="0.899701"/>
 		<SunElevation angle="0.785398"/>
-		<SunRotation angle="-0.785396"/>
+		<SunRotation angle="-2.6814"/>
 		<TerrainAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
 		<UnitsAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
 		<Fog>
@@ -15,10 +15,10 @@
 		</Fog>
 		<Water>
 			<WaterBody>
-				<Type>ocean</Type>
+				<Type>lake</Type>
 				<Color r="0.294118" g="0.34902" b="0.694118"/>
 				<Tint r="0.27451" g="0.294118" b="0.584314"/>
-				<Height>5</Height>
+				<Height>153.6</Height>
 				<Waviness>4</Waviness>
 				<Murkiness>0.45</Murkiness>
 				<WindAngle>0</WindAngle>
@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="931.53" y="1179.12" z="-667.091"/>
+		<Position x="1150.08" y="1076.85" z="-707.545"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -46,6 +46,7 @@
   "LockTeams": false,
   "Name": "Defender of the Thing",
   "PlayerData": [
+    null,
     {
       "AI": "petra",
       "Civ": "athen",
